@@ -1,11 +1,6 @@
 
-### *Library of Web3
 
-
-### wangschang
-
-
-## 私人工具箱
+## Web3学习
 | 名称 | 添加日期 | 类型 | 备注 |
 | ------- | ------- | ------ | ---- |
 |[Library of Web3](https://www.alexdphan.com/research/library-of-web3)|20220622|资源|Library of Web3|
